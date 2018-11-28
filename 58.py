@@ -3,5 +3,6 @@ list=[int(a) for a in raw_input().split()]
 if p and q in list:
     print "yes"
 else:
-    print "No"
+    print "no"
+
  
