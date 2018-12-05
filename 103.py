@@ -1,2 +1,2 @@
-string=raw_input("")
-print string.title()
+string1=raw_input("")
+print string1.title()
