@@ -1,2 +1,2 @@
-p=raw_input()
-print p
+for helloworld in range(0,1):
+	print 'helloworld'
