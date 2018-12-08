@@ -1,4 +1,4 @@
-p=int(raw_input())
+p=int(int(input()))
 q=p+1
 while(q!=0):
     if q%10==0:
