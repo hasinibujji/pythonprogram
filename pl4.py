@@ -1,2 +1,2 @@
-x=raw_input()
-print(x+".")
+x11=raw_input()
+print(x11+".")
